@@ -6,3 +6,6 @@ accountCity="Patna"
 // accountId=2309100
 // console.log("accountId:", accountId);
 console.table([ accountId, accountEmail, accountPassword, accountCity]);
+/*
+avoid using var and use let and const instead
+*/
